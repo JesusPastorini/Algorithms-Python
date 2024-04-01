@@ -4,6 +4,11 @@
 
 No projeto Algorithms, eu tive a oportunidade de desenvolver sua lógica de programação e habilidades de resolução de problemas, implementando algoritmos para resolver diferentes desafios.
 
+## 📷 Exemplo da criptografia
+
+![Foto do Projeto](challenges/encrypt-examples.png)
+
+
 ## 🛠️ Tecnologias e Habilidades
 
 - **Linguagem Utilizada:** Python 3.10.6
